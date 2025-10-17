@@ -1,6 +1,6 @@
-# Hi, I'm Michael!
-<h3 align="left">Cybersecurity | GRC | Cloud Enthusiast</h3>
+# Hi, I'm [Michael](https://www.linkedin.com/in/mwilliams9971)!
 
+### Cybersecurity is my passion
 
 
 🧠 U.S. Air Force Veteran with 7 years of IT experience across enterprise and defense environments.  
@@ -31,4 +31,4 @@
 
 ---
 
-> *“Learning by building — one project at a time.”*
+> *“"Develop a passion for learning. If you do, you will never cease to grow."”*
