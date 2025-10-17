@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Michael!
+<h3 align="left">Cybersecurity | GRC | Cloud Enthusiast</h3>
 
-<!--
-**mwilliams9971/mwilliams9971** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 U.S. Air Force Veteran with 7 years of IT experience across enterprise and defense environments.  
+🔐 Passionate about security monitoring, compliance, and risk management.  
+💻 Currently studying for **CySA+** and **CISA** while building hands-on labs in SOC operations and cloud security.
+
+---
+
+### 🧩 My Projects
+- **SOC Analyst 2.0 Lab (Azure, LimaCharlie, Sliver C2)**
+  - Simulated enterprise SOC environment with EDR, SIEM rules, and incident response workflows.  
+- **Ubuntu Firewall Hardening**
+  - Implemented UFW rules and journald log analysis for host intrusion detection.  
+
+
+---
+
+### 🧰 Tools & Technologies
+`Azure` • `LimaCharlie` • `Splunk` • `PowerShell` • `Python` • `Linux` • `NIST 800-53` • `MITRE ATT&CK` • `SIEM` • `Compliance Frameworks`
+
+---
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN)  
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-red?style=flat&logo=tryhackme)](https://tryhackme.com/p/YOURUSERNAME)  
+📧 [Email Me](mailto:Michaelw062000@gmail.com)
+
+
+---
+
+> *“Learning by building — one project at a time.”*
