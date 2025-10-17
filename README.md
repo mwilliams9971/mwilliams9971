@@ -1,9 +1,9 @@
-# Hi, I'm [Michael](https://www.linkedin.com/in/mwilliams9971)!
-### Cybersecurity Student and AF Veteran 
-### Welcome to my Portfolio.
+<h1 align="center">
+  <img src="michael.svg" alt="Michael animated banner" />
+</h1>
 
-
----
+## <p align="center">Cybersecurity Student and AF Veteran</p>
+### Hey, I'm Michael - A supportive husband and lifelong learner!
 
 ### 🧩 My Projects
 - **SOC Analyst 2.0 Lab (Azure, LimaCharlie, Sliver C2)**

@@ -1,0 +1,54 @@
+<svg fill="none" viewBox="0 0 800 400" width="100%" height="200" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="position:relative; width:100%; height:100%; display:flex; align-items:center; justify-content:center; background:transparent;">
+      <style>
+        @keyframes gradientText {
+          0% { background-position: 0% 50%; }
+          50% { background-position: 100% 50%; }
+          100% { background-position: 0% 50%; }
+        }
+        @keyframes snowFall {
+          0% { transform: translateY(-10%); opacity: 0; }
+          10% { opacity: 1; }
+          100% { transform: translateY(110%); opacity: 1; }
+        }
+        @keyframes snowDrift {
+          0% { transform: translateX(0px); }
+          50% { transform: translateX(20px); }
+          100% { transform: translateX(0px); }
+        }
+
+        h1 {
+          font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', sans-serif;
+          font-weight: 800;
+          font-size: 125px;
+          margin: 0;
+          background: linear-gradient(90deg, #ff00cc, #3333ff);
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+          background-size: 200% 200%;
+          animation: gradientText 5s ease infinite;
+        }
+
+        .snowflake {
+          position: absolute;
+          color: #fff;
+          font-size: 1.2rem;
+          animation: snowFall var(--fall-time,10s) linear infinite,
+                     snowDrift var(--drift-time,5s) ease-in-out infinite;
+        }
+      </style>
+
+      <h1>MICHAEL</h1>
+
+      <!-- Snowflakes -->
+      <div class="snowflake" style="left:10%; --fall-time:9s; --drift-time:6s;">*</div>
+      <div class="snowflake" style="left:20%; --fall-time:11s; --drift-time:7s;">✻</div>
+      <div class="snowflake" style="left:30%; --fall-time:10s; --drift-time:5s;">*</div>
+      <div class="snowflake" style="left:45%; --fall-time:12s; --drift-time:6s;">✼</div>
+      <div class="snowflake" style="left:60%; --fall-time:8s; --drift-time:5s;">*</div>
+      <div class="snowflake" style="left:75%; --fall-time:10s; --drift-time:7s;">✻</div>
+      <div class="snowflake" style="left:90%; --fall-time:9s; --drift-time:6s;">✼</div>
+    </div>
+  </foreignObject>
+</svg>
