@@ -1,11 +1,7 @@
 # Hi, I'm [Michael](https://www.linkedin.com/in/mwilliams9971)!
+### Cybersecurity Student and AF Veteran 
+### Welcome to my Portfolio.
 
-### Cybersecurity is my passion
-
-
-🧠 U.S. Air Force Veteran with 7 years of IT experience across enterprise and defense environments.  
-🔐 Passionate about security monitoring, compliance, and risk management.  
-💻 Currently studying for **CySA+** and **CISA** while building hands-on labs in SOC operations and cloud security.
 
 ---
 
