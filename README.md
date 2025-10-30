@@ -2,7 +2,7 @@
   <img src="michael.svg" alt="Michael animated banner" />
 </h1>
 
-## <p align="center">Cybersecurity Student and AF Veteran</p>
+## <p align="center">College Student and AF Veteran</p>
 ### Hey, I'm Michael - A supportive husband and lifelong learner!
 
 ### 🧩 My Projects
