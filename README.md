@@ -3,28 +3,16 @@
 </h1>
 
 ## <p align="center">College Student and AF Veteran</p>
-### Hey, I'm Michael - A supportive husband and lifelong learner!
 
-### 🧩 My Projects
-- **SOC Analyst 2.0 Lab (Azure, LimaCharlie, Sliver C2)**
-  - Simulated enterprise SOC environment with EDR, SIEM rules, and incident response workflows.  
-- **Ubuntu Firewall Hardening**
-  - Implemented UFW rules and journald log analysis for host intrusion detection.  
+### Hey, I'm Michael - Cloud & Email Administrator and lifelong learner!
 
+🧩 **My Projects**
 
----
+* **[GoDaddy to Microsoft 365 Tenant Migration](https://github.com/mwilliams9971/m365-tenant-migration-defederation)**
+  * Executed a live production deployment breaking partner federation, purging legacy directory anchors, and safely cutting over custom domains to a native enterprise tenant.
+* **Microsoft 365 Enterprise Tenant Provisioning & Hardening
+  * Greenfield implementation focusing on identity lifecycle management, automated user provisioning, enterprise licensing layout, and explicit Conditional Access policy design.
 
-### 🧰 Tools & Technologies
-`Azure` • `LimaCharlie` • `Splunk` • `PowerShell` • `Python` • `Linux` • `NIST 800-53` • `MITRE ATT&CK` • `SIEM` • `Compliance Frameworks`
+🧰 **Tools & Technologies**
 
----
-
-### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN)  
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-red?style=flat&logo=tryhackme)](https://tryhackme.com/p/michaelw062000)  
-📧 [Email Me](mailto:Michaelw062000@gmail.com)
-
-
----
-
-> *“"Develop a passion for learning. If you do, you will never cease to grow."”*
+`Entra ID` `Microsoft Graph PowerShell` `Exchange Online` `PowerShell` `Azure` `Identity Governance` `DNS Management` `Linux`
